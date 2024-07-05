@@ -123,6 +123,9 @@ nav a {
   font-size: 18px;
   font-weight: bold;
   font-family: 'Calibre','Inter','San Francisco','SF Pro Text',-apple-system,system-ui,sans-serif;
+  border-radius: 5px;
+  padding: 5px;
+  border: 2px solid #15b9f3;
 }
 
 #hero {
